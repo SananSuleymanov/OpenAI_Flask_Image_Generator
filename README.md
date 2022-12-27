@@ -24,7 +24,7 @@
    ```bash
    $ pip install -r requirements.txt
    ```
-7. Add your [API key](https://beta.openai.com/account/api-keys) to the newly `.env` file 
+7. Add your [API key](https://beta.openai.com/account/api-keys) to the `.env` file 
 
 8. Run the app
 
