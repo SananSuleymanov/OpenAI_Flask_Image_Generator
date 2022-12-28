@@ -1,5 +1,5 @@
 # OpenAI Flask Image Generator
-
+This repository gives you introduction about how to use OpenAI API for creating Image Generator. You can find the more information about the API by checking [documentation] (https://beta.openai.com/docs/guides/images/introduction)
 ## Setup
 
 1. If you don’t have Python installed, [install it from here](https://www.python.org/downloads/)
