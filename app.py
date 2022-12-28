@@ -29,4 +29,3 @@ def index():
         return redirect(url_for("index"))
     
     return render_template("index.html")
-print(os.environ["OPENAI_API_KEY"])
