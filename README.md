@@ -10,7 +10,7 @@ This repository gives you introduction about how to use OpenAI API for creating 
 3. Navigate into the project directory
 
    ```bash
-   $ cd openai-quickstart-python
+   $ cd OpenAI_Flask_Image_Generator
    ```
 
 4. Create a new virtual environment
